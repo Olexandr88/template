@@ -28,7 +28,7 @@ Check
 
 ## Contributing
 
-[CONTRIBUTING.md](../CONTRIBUTING.md)
+[CONTRIBUTING.md](https://github.com/dr-orlovsky/template/blob/master/CONTRIBUTING.md)
 
 ## License
 
